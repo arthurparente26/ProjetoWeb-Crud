@@ -7,6 +7,7 @@ Desenvolvedor: Arthur Parente.
 ## Descrição do projeto
 
 Desenvolver um projeto que faça o cadastro de usuarios além de manipulação dos dados cadastrados.
+Projeto solicitado pelo professor de WebDev.
 
 ## Status do Projeto
 
