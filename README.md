@@ -14,7 +14,7 @@ Concluído.
 
 ## Acesso ao projeto
 
-**Basta baixa-lo pelo github pelo link: .
+**Basta baixa-lo pelo github pelo link: https://github.com/arthurparente26/Sistema-de-Cadastro.
 
 ## Tecnologias usadas
 
